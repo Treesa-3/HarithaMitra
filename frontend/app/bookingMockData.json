@@ -1,0 +1,30 @@
+[
+  {
+    "houseNo": "#H101",
+    "name": "sreeleela",
+    "wardNo": "Ward 1",
+    "address": "123 Worker Street, Apt 4B, New York, NY 10001",
+    "type":"Slot booking"
+  },
+  {
+    "houseNo": "#H102",
+    "name": "leela",
+    "wardNo": "Ward 1",
+    "address": "123 Worker Street, Apt 4B, New York, NY 10001",
+    "type":"Cloth Bag"
+  },
+  {
+    "houseNo": "#H109",
+    "name": "Devaki",
+    "wardNo": "Ward 1",
+    "address": "123 Worker Street, Apt 4B, New York, NY 10001",
+    "type":"Biogas"
+  },
+  {
+    "houseNo": "#H101",
+    "name": "Vijayalakshmi",
+    "wardNo": "Ward 1",
+    "address": "123 Worker Street, Apt 4B, New York, NY 10001",
+    "type":"Waste Bin"
+  }
+]
